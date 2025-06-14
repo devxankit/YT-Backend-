@@ -1,4 +1,11 @@
- 
+
+#git
+*.gitignore 
+
+
+
+
+
 # Logs
 logs
 *.log
